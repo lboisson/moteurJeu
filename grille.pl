@@ -1,8 +1,6 @@
 grilleDeDepart([[-,-,-],[-,-,-],[-,-,-]]).
 
 
-coucou
-
 
 succNum(1, 2).
 succNum(2, 3).
